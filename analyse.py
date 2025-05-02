@@ -1,7 +1,6 @@
 import pandas as pd
 
 DataFolder = 'Data/'
-Years = ['1950-51/', '1951-52/','1952-53/', '1953-54/', '1954-55/', '1955-56/','1956-57/', '1957-58/', '1958-59/', '1959-60/', '1960-61/', '1961-62/', '1962-63/', '1963-64/', '1964-65/', '1965-66/', '1966-67/', '1967-68/', '1968-69/', '1969-70/']
 Data = {
     '1950-51/': [
         'first_division_results.csv',
@@ -123,8 +122,71 @@ Data = {
         'third_division_results.csv',
         'fourth_division_results.csv'
     ],
+      '1970-71/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+      '1971-72/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+      '1972-73/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+      '1973-74/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+     '1974-75/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+       '1975-76/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+        '1976-77/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],    
+    '1977-78/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+    '1978-79/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
+     '1979-80/': [
+        'first_division_results.csv',
+        'second_division_results.csv',
+        'third_division_results.csv',
+        'fourth_division_results.csv'
+    ],
 }
+Years = []
 
+for count in range(len(Data)):
+    Years.append((f'{count + 1950}') + '-' + (f'{(count + 51) % 100}') + '/')
 
 def flat(lis):
     flatList = []
