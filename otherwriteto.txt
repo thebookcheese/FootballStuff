@@ -1,0 +1,7 @@
+2:1 happen 60 times or 30.0% (out of 200) 
+1:0 happen 58 times or 28.9% (out of 200) 
+2:2 happen 52 times or 26.0% (out of 200) 
+3:1 happen 13 times or 6.5% (out of 200) 
+0:1 happen 8 times or 4.0% (out of 200) 
+1:2 happen 7 times or 3.50% (out of 200) 
+3:2 happen 2 times or 1.0% (out of 200) 

@@ -1,305 +1,310 @@
 Club Wins 
-Liverpool won 629 matches 
-Manchester United won 584 matches 
-Leeds United won 577 matches 
-Reading won 566 matches 
-Brighton & Hove Albion won 552 matches 
-Tottenham Hotspur won 547 matches 
-Wolverhampton Wanderers won 536 matches 
-Northampton Town won 536 matches 
-Mansfield Town won 535 matches 
-Grimsby Town won 534 matches 
-Arsenal won 533 matches 
-Wrexham won 531 matches 
-Ipswich Town won 530 matches 
-Millwall won 530 matches 
-Chesterfield won 524 matches 
-Brentford won 523 matches 
-Torquay United won 523 matches 
-Bristol Rovers won 515 matches 
-Blackburn Rovers won 514 matches 
-Queens Park Rangers won 513 matches 
-Bradford City won 513 matches 
-Carlisle United won 509 matches 
-Southampton won 508 matches 
-Watford won 508 matches 
-Everton won 506 matches 
-Middlesbrough won 505 matches 
-Nottingham Forest won 505 matches 
-Gillingham won 504 matches 
-Burnley won 503 matches 
-Sheffield United won 502 matches 
-Luton Town won 501 matches 
-Rotherham United won 501 matches 
-Shrewsbury Town won 501 matches 
-Colchester United won 501 matches 
-Bristol City won 500 matches 
-Norwich City won 496 matches 
-Aldershot won 492 matches 
-Swindon Town won 491 matches 
-Huddersfield Town won 490 matches 
-Newport County won 490 matches 
-Manchester City won 489 matches 
-Coventry City won 488 matches 
-Preston North End won 487 matches 
-York City won 487 matches 
-Derby County won 486 matches 
-West Bromwich Albion won 486 matches 
-Notts County won 486 matches 
-Stockport County won 485 matches 
-Aston Villa won 484 matches 
-Exeter City won 482 matches 
-Bury won 481 matches 
-Oldham Athletic won 481 matches 
-Plymouth Argyle won 481 matches 
-Walsall won 481 matches 
-Chelsea won 479 matches 
-Hull City won 478 matches 
-Blackpool won 477 matches 
-Lincoln City won 474 matches 
-Port Vale won 474 matches 
-Bolton Wanderers won 473 matches 
-Sunderland won 473 matches 
-Barnsley won 472 matches 
-Leicester City won 466 matches 
-Newcastle United won 463 matches 
-Chester won 462 matches 
-Sheffield Wednesday won 461 matches 
-Doncaster Rovers won 458 matches 
-Crystal Palace won 458 matches 
-Stoke City won 455 matches 
-West Ham United won 453 matches 
-Charlton Athletic won 447 matches 
-Crewe Alexandra won 443 matches 
-Fulham won 442 matches 
-Cardiff City won 442 matches 
-Darlington won 442 matches 
-Halifax Town won 439 matches 
-Rochdale won 434 matches 
-Portsmouth won 419 matches 
-Southport won 409 matches 
-Workington won 387 matches 
-Bournemouth & Boscombe Athletic won 373 matches 
-Peterborough United won 371 matches 
-Barrow won 327 matches 
-Scunthorpe United won 325 matches 
-Bradford Park Avenue won 291 matches 
-Hartlepool won 289 matches 
-Birmingham won 288 matches 
-Swansea Town won 285 matches 
-Tranmere Rovers won 270 matches 
-Southend won 267 matches 
-Southend United won 266 matches 
-Oxford United won 265 matches 
-Leyton Orient won 255 matches 
-Tranmere won 238 matches 
-Swansea City won 205 matches 
-Accrington Stanley won 193 matches 
-Orient won 185 matches 
-Gateshead won 178 matches 
-Birmingham City won 177 matches 
-Cambridge United won 175 matches 
-Hartlepools United won 156 matches 
-Scunthorpe & Lindsey United won 152 matches 
-AFC Bournemouth won 133 matches 
-Hereford United won 124 matches 
-Wimbledon won 50 matches 
-Wigan Athletic won 43 matches 
-Bradford (Park Avenue) won 27 matches 
-Hartlepool United won 14 matches 
-Bournemouth won 14 matches 
-New Brighton won 12 matches 
+Liverpool won 882 matches 
+Manchester United won 782 matches 
+Leeds United won 764 matches 
+Reading won 753 matches 
+Arsenal won 746 matches 
+Tottenham Hotspur won 737 matches 
+Brighton & Hove Albion won 722 matches 
+Ipswich Town won 722 matches 
+Millwall won 714 matches 
+Northampton Town won 714 matches 
+Everton won 712 matches 
+Wolverhampton Wanderers won 711 matches 
+Bradford City won 710 matches 
+Grimsby Town won 708 matches 
+Bristol Rovers won 707 matches 
+Brentford won 705 matches 
+Bristol City won 703 matches 
+Sheffield United won 702 matches 
+Nottingham Forest won 702 matches 
+Blackburn Rovers won 701 matches 
+Chesterfield won 701 matches 
+Mansfield Town won 698 matches 
+Queens Park Rangers won 695 matches 
+Gillingham won 695 matches 
+Swindon Town won 695 matches 
+Watford won 687 matches 
+Wrexham won 685 matches 
+Torquay United won 685 matches 
+Burnley won 680 matches 
+Notts County won 680 matches 
+Rotherham United won 678 matches 
+Colchester United won 678 matches 
+Southampton won 677 matches 
+Bury won 674 matches 
+Carlisle United won 670 matches 
+York City won 669 matches 
+Norwich City won 666 matches 
+Middlesbrough won 665 matches 
+Luton Town won 664 matches 
+Plymouth Argyle won 663 matches 
+Chelsea won 661 matches 
+Huddersfield Town won 661 matches 
+Oldham Athletic won 661 matches 
+Port Vale won 661 matches 
+Manchester City won 660 matches 
+Aston Villa won 656 matches 
+Hull City won 656 matches 
+Preston North End won 656 matches 
+Walsall won 656 matches 
+Blackpool won 655 matches 
+Aldershot won 653 matches 
+Stockport County won 652 matches 
+Shrewsbury Town won 651 matches 
+Barnsley won 649 matches 
+Bolton Wanderers won 648 matches 
+Sheffield Wednesday won 648 matches 
+West Ham United won 647 matches 
+Derby County won 645 matches 
+Exeter City won 643 matches 
+Lincoln City won 642 matches 
+Newcastle United won 635 matches 
+Coventry City won 634 matches 
+West Bromwich Albion won 630 matches 
+Sunderland won 628 matches 
+Crystal Palace won 628 matches 
+Doncaster Rovers won 624 matches 
+Leicester City won 623 matches 
+Fulham won 616 matches 
+Portsmouth won 609 matches 
+Cardiff City won 606 matches 
+Darlington won 600 matches 
+Crewe Alexandra won 598 matches 
+Newport County won 597 matches 
+Charlton Athletic won 596 matches 
+Stoke City won 594 matches 
+Halifax Town won 581 matches 
+Rochdale won 576 matches 
+Peterborough United won 565 matches 
+Chester won 529 matches 
+Scunthorpe United won 506 matches 
+Southend United won 452 matches 
+Oxford United won 441 matches 
+Tranmere Rovers won 436 matches 
+Southport won 408 matches 
+Workington won 386 matches 
+Bournemouth & Boscombe Athletic won 372 matches 
+Swansea City won 362 matches 
+Leyton Orient won 348 matches 
+Cambridge United won 337 matches 
+Barrow won 326 matches 
+Hartlepool won 321 matches 
+Birmingham City won 320 matches 
+Bradford Park Avenue won 290 matches 
+Birmingham won 287 matches 
+Hereford United won 287 matches 
+Swansea Town won 284 matches 
+Southend won 284 matches 
+Orient won 271 matches 
+Tranmere won 264 matches 
+Wimbledon won 252 matches 
+Wigan Athletic won 247 matches 
+Accrington Stanley won 192 matches 
+Gateshead won 177 matches 
+Bournemouth won 176 matches 
+AFC Bournemouth won 165 matches 
+Hartlepools United won 155 matches 
+Scunthorpe & Lindsey United won 151 matches 
+Hartlepool United won 148 matches 
+Chester City won 88 matches 
+Scarborough won 72 matches 
+Maidstone United won 35 matches 
+Bradford (Park Avenue) won 26 matches 
+New Brighton won 11 matches 
 
 Relative Strength 
-Manchester United had a relative strength of 42.22%  
-Liverpool had a relative strength of 40.14%  
-Tottenham Hotspur had a relative strength of 39.70%  
-Arsenal had a relative strength of 39.40%  
-Wolverhampton Wanderers had a relative strength of 37.14%  
-Leeds United had a relative strength of 35.92%  
-Everton had a relative strength of 35.59%  
-West Bromwich Albion had a relative strength of 34.0%  
-Burnley had a relative strength of 33.85%  
-Manchester City had a relative strength of 33.37%  
-Chelsea had a relative strength of 32.44%  
-Birmingham City had a relative strength of 30.83%  
-Newcastle United had a relative strength of 30.18%  
-Aston Villa had a relative strength of 28.55%  
-Nottingham Forest had a relative strength of 28.47%  
-Leicester City had a relative strength of 27.25%  
-West Ham United had a relative strength of 27.14%  
-Blackpool had a relative strength of 26.96%  
-Sheffield United had a relative strength of 26.14%  
-Stoke City had a relative strength of 25.81%  
-Ipswich Town had a relative strength of 25.70%  
-Bolton Wanderers had a relative strength of 25.51%  
-Derby County had a relative strength of 25.18%  
-Sunderland had a relative strength of 24.62%  
-Sheffield Wednesday had a relative strength of 24.32%  
-Middlesbrough had a relative strength of 23.61%  
-Preston North End had a relative strength of 22.42%  
-Birmingham had a relative strength of 21.97%  
-Blackburn Rovers had a relative strength of 21.16%  
-Fulham had a relative strength of 20.47%  
-Southampton had a relative strength of 20.37%  
-Coventry City had a relative strength of 19.43%  
-Charlton Athletic had a relative strength of 19.34%  
-Cardiff City had a relative strength of 19.27%  
-Luton Town had a relative strength of 17.93%  
-Portsmouth had a relative strength of 17.82%  
-Huddersfield Town had a relative strength of 17.80%  
-Norwich City had a relative strength of 16.94%  
-Queens Park Rangers had a relative strength of 16.18%  
-Bristol City had a relative strength of 15.79%  
-Swansea Town had a relative strength of 14.02%  
-Leyton Orient had a relative strength of 13.44%  
-Rotherham United had a relative strength of 13.25%  
-Hull City had a relative strength of 13.10%  
-Bristol Rovers had a relative strength of 13.10%  
-Crystal Palace had a relative strength of 12.20%  
-Plymouth Argyle had a relative strength of 11.98%  
-Carlisle United had a relative strength of 11.80%  
-Brighton & Hove Albion had a relative strength of 11.58%  
-Millwall had a relative strength of 11.53%  
-Bury had a relative strength of 11.30%  
-Notts County had a relative strength of 10.99%  
-Oxford United had a relative strength of 10.11%  
-Swindon Town had a relative strength of 10.09%  
-Scunthorpe & Lindsey United had a relative strength of 9.630%  
-Grimsby Town had a relative strength of 9.439%  
-Orient had a relative strength of 9.287%  
-Oldham Athletic had a relative strength of 8.781%  
-Bournemouth & Boscombe Athletic had a relative strength of 8.746%  
-Southend had a relative strength of 8.639%  
-Northampton Town had a relative strength of 8.511%  
-Reading had a relative strength of 8.426%  
-Shrewsbury Town had a relative strength of 8.407%  
-Watford had a relative strength of 8.390%  
-Gateshead had a relative strength of 8.316%  
-Wrexham had a relative strength of 8.267%  
-Mansfield Town had a relative strength of 8.253%  
-Lincoln City had a relative strength of 8.063%  
-Walsall had a relative strength of 8.019%  
-Brentford had a relative strength of 7.995%  
-Barnsley had a relative strength of 7.983%  
-Tranmere had a relative strength of 7.829%  
-Chesterfield had a relative strength of 7.767%  
-Scunthorpe United had a relative strength of 7.756%  
-Accrington Stanley had a relative strength of 7.716%  
-Swansea City had a relative strength of 7.663%  
-Port Vale had a relative strength of 7.621%  
-Cambridge United had a relative strength of 7.468%  
-Peterborough United had a relative strength of 7.461%  
-Doncaster Rovers had a relative strength of 7.197%  
-Hartlepools United had a relative strength of 7.079%  
-Gillingham had a relative strength of 7.066%  
-Colchester United had a relative strength of 6.938%  
-Hereford United had a relative strength of 6.829%  
-Southend United had a relative strength of 6.802%  
-Torquay United had a relative strength of 6.743%  
-York City had a relative strength of 6.660%  
-Bradford (Park Avenue) had a relative strength of 6.632%  
-Tranmere Rovers had a relative strength of 6.617%  
-Bradford City had a relative strength of 6.428%  
-Halifax Town had a relative strength of 6.292%  
-Bradford Park Avenue had a relative strength of 6.176%  
-Stockport County had a relative strength of 5.918%  
-Newport County had a relative strength of 5.816%  
-Barrow had a relative strength of 5.797%  
-Exeter City had a relative strength of 5.697%  
-New Brighton had a relative strength of 5.612%  
-Aldershot had a relative strength of 5.561%  
-Chester had a relative strength of 5.484%  
-Wigan Athletic had a relative strength of 5.357%  
-Rochdale had a relative strength of 5.348%  
-Southport had a relative strength of 5.348%  
-Workington had a relative strength of 5.337%  
-Wimbledon had a relative strength of 5.017%  
-Crewe Alexandra had a relative strength of 4.838%  
-Darlington had a relative strength of 4.829%  
-Hartlepool had a relative strength of 4.725%  
-Hartlepool United had a relative strength of 3.316%  
-Bournemouth had a relative strength of 3.316%  
-AFC Bournemouth had a relative strength of 2.008%  
+Liverpool had a relative strength of 54.20%  
+Manchester United had a relative strength of 54.05%  
+Arsenal had a relative strength of 52.78%  
+Tottenham Hotspur had a relative strength of 51.09%  
+Everton had a relative strength of 49.67%  
+Manchester City had a relative strength of 42.32%  
+Chelsea had a relative strength of 42.31%  
+Leeds United had a relative strength of 42.22%  
+West Bromwich Albion had a relative strength of 41.98%  
+Nottingham Forest had a relative strength of 41.97%  
+Wolverhampton Wanderers had a relative strength of 40.14%  
+Aston Villa had a relative strength of 39.84%  
+Newcastle United had a relative strength of 38.54%  
+West Ham United had a relative strength of 38.34%  
+Leicester City had a relative strength of 35.77%  
+Ipswich Town had a relative strength of 34.72%  
+Sheffield Wednesday had a relative strength of 34.07%  
+Birmingham City had a relative strength of 34.04%  
+Burnley had a relative strength of 33.99%  
+Stoke City had a relative strength of 33.52%  
+Sunderland had a relative strength of 33.10%  
+Southampton had a relative strength of 33.08%  
+Derby County had a relative strength of 31.60%  
+Coventry City had a relative strength of 31.10%  
+Sheffield United had a relative strength of 30.32%  
+Birmingham had a relative strength of 29.62%  
+Middlesbrough had a relative strength of 29.61%  
+Norwich City had a relative strength of 28.82%  
+Blackpool had a relative strength of 28.36%  
+Luton Town had a relative strength of 28.34%  
+Bolton Wanderers had a relative strength of 28.24%  
+Queens Park Rangers had a relative strength of 27.20%  
+Blackburn Rovers had a relative strength of 26.94%  
+Charlton Athletic had a relative strength of 25.90%  
+Wimbledon had a relative strength of 24.99%  
+Fulham had a relative strength of 24.48%  
+Preston North End had a relative strength of 24.36%  
+Portsmouth had a relative strength of 24.27%  
+Cardiff City had a relative strength of 22.64%  
+Huddersfield Town had a relative strength of 21.88%  
+Crystal Palace had a relative strength of 20.68%  
+Bristol City had a relative strength of 19.31%  
+Swansea Town had a relative strength of 18.47%  
+Brighton & Hove Albion had a relative strength of 18.32%  
+Watford had a relative strength of 17.94%  
+Oxford United had a relative strength of 17.82%  
+Hull City had a relative strength of 17.68%  
+Notts County had a relative strength of 17.23%  
+Millwall had a relative strength of 17.09%  
+Orient had a relative strength of 16.68%  
+Bristol Rovers had a relative strength of 16.55%  
+Plymouth Argyle had a relative strength of 16.43%  
+Rotherham United had a relative strength of 16.12%  
+Leyton Orient had a relative strength of 15.59%  
+Oldham Athletic had a relative strength of 15.46%  
+Carlisle United had a relative strength of 14.69%  
+Barnsley had a relative strength of 14.26%  
+Swindon Town had a relative strength of 14.06%  
+Grimsby Town had a relative strength of 13.68%  
+Shrewsbury Town had a relative strength of 13.55%  
+Bury had a relative strength of 13.44%  
+Swansea City had a relative strength of 13.26%  
+Scunthorpe & Lindsey United had a relative strength of 13.01%  
+Bournemouth had a relative strength of 12.11%  
+Bournemouth & Boscombe Athletic had a relative strength of 11.73%  
+Southend had a relative strength of 11.49%  
+Reading had a relative strength of 11.42%  
+Walsall had a relative strength of 11.11%  
+Brentford had a relative strength of 11.02%  
+Port Vale had a relative strength of 10.96%  
+Gateshead had a relative strength of 10.95%  
+Cambridge United had a relative strength of 10.88%  
+Wigan Athletic had a relative strength of 10.63%  
+Bradford City had a relative strength of 10.63%  
+AFC Bournemouth had a relative strength of 10.53%  
+Lincoln City had a relative strength of 10.45%  
+Wrexham had a relative strength of 10.16%  
+Gillingham had a relative strength of 10.16%  
+Mansfield Town had a relative strength of 10.13%  
+Northampton Town had a relative strength of 10.08%  
+Accrington Stanley had a relative strength of 9.948%  
+Chesterfield had a relative strength of 9.928%  
+Doncaster Rovers had a relative strength of 9.455%  
+Scunthorpe United had a relative strength of 9.282%  
+Tranmere had a relative strength of 9.243%  
+Southend United had a relative strength of 9.045%  
+Tranmere Rovers had a relative strength of 8.967%  
+Colchester United had a relative strength of 8.871%  
+York City had a relative strength of 8.692%  
+Peterborough United had a relative strength of 8.669%  
+Hartlepools United had a relative strength of 8.641%  
+Bradford Park Avenue had a relative strength of 8.163%  
+Newport County had a relative strength of 8.136%  
+Torquay United had a relative strength of 8.051%  
+Chester had a relative strength of 7.981%  
+Halifax Town had a relative strength of 7.867%  
+Barrow had a relative strength of 7.832%  
+Exeter City had a relative strength of 7.777%  
+New Brighton had a relative strength of 7.653%  
+Bradford (Park Avenue) had a relative strength of 7.653%  
+Southport had a relative strength of 7.539%  
+Hereford United had a relative strength of 7.402%  
+Workington had a relative strength of 7.397%  
+Chester City had a relative strength of 7.291%  
+Stockport County had a relative strength of 7.267%  
+Aldershot had a relative strength of 7.236%  
+Rochdale had a relative strength of 6.931%  
+Darlington had a relative strength of 6.690%  
+Crewe Alexandra had a relative strength of 6.567%  
+Hartlepool had a relative strength of 6.433%  
+Scarborough had a relative strength of 6.186%  
+Maidstone United had a relative strength of 5.676%  
+Hartlepool United had a relative strength of 5.306%  
 
 Scores 
-1–1 happend 7157 times 
-0-1 happend 5820 times 
-2–1 happend 5477 times 
-0-2 happend 4937 times 
-0–0 happend 4203 times 
-0–1 happend 3414 times 
-3–1 happend 3397 times 
-2–2 happend 3314 times 
-1–2 happend 3227 times 
-3–0 happend 2989 times 
-2-0 happend 1948 times 
-2-3 happend 1843 times 
-1-4 happend 1591 times 
-4–0 happend 1423 times 
-3-1 happend 1343 times 
-2–3 happend 1089 times 
-2-4 happend 952 times 
-3–3 happend 761 times 
-0–3 happend 757 times 
-5–1 happend 654 times 
-0-5 happend 599 times 
-4-1 happend 462 times 
-2-5 happend 417 times 
-2–4 happend 378 times 
-3-4 happend 344 times 
-1-6 happend 278 times 
-4-0 happend 232 times 
-4-3 happend 206 times 
-6–0 happend 198 times 
-6–2 happend 157 times 
-5–3 happend 151 times 
-1–5 happend 149 times 
-4–4 happend 115 times 
-2–5 happend 102 times 
-1-7 happend 78 times 
-0-7 happend 74 times 
-0–5 happend 65 times 
-5-3 happend 64 times 
-3-6 happend 58 times 
-2-7 happend 51 times 
-4-5 happend 45 times 
-4–5 happend 34 times 
-1–6 happend 31 times 
-0-8 happend 22 times 
-6-2 happend 22 times 
-8–1 happend 19 times 
-6–4 happend 19 times 
-3-7 happend 17 times 
-6-0 happend 17 times 
-1–7 happend 12 times 
-0-9 happend 12 times 
-6-3 happend 12 times 
-8–2 happend 11 times 
-5–5 happend 8 times 
-6-4 happend 8 times 
-1-9 happend 7 times 
-2-9 happend 7 times 
+1–1 happend 9910 times 
+1–0 happend 8235 times 
+2–1 happend 7607 times 
+2–0 happend 6802 times 
+0–0 happend 6007 times 
+0–1 happend 5030 times 
+1–2 happend 4575 times 
+2–2 happend 4483 times 
+3–1 happend 4478 times 
+3–0 happend 3992 times 
+0–2 happend 2721 times 
+3–2 happend 2436 times 
+4–1 happend 2034 times 
+4–0 happend 1884 times 
+1–3 happend 1820 times 
+2–3 happend 1464 times 
+4–2 happend 1162 times 
+0–3 happend 1108 times 
+3–3 happend 989 times 
+5–1 happend 798 times 
+5–0 happend 759 times 
+1–4 happend 610 times 
+5–2 happend 502 times 
+2–4 happend 474 times 
+4–3 happend 446 times 
+6–1 happend 327 times 
+0–4 happend 316 times 
+3–4 happend 258 times 
+6–0 happend 246 times 
+1–5 happend 194 times 
+5–3 happend 180 times 
+6–2 happend 176 times 
+4–4 happend 141 times 
+2–5 happend 124 times 
+7–1 happend 90 times 
+0–5 happend 87 times 
+7–0 happend 86 times 
+3–5 happend 75 times 
+6–3 happend 66 times 
+5–4 happend 58 times 
+7–2 happend 54 times 
+4–5 happend 37 times 
+1–6 happend 37 times 
+2–6 happend 28 times 
+8–0 happend 26 times 
+0–6 happend 23 times 
+8–1 happend 22 times 
+6–4 happend 21 times 
+7–3 happend 18 times 
+3–6 happend 15 times 
+1–7 happend 14 times 
+9–0 happend 14 times 
+8–2 happend 12 times 
+5–5 happend 10 times 
+4–6 happend 9 times 
+9–1 happend 7 times 
+9–2 happend 7 times 
 8–3 happend 7 times 
-7-2 happend 6 times 
+2–7 happend 7 times 
+7–4 happend 5 times 
 3–7 happend 4 times 
-7–4 happend 4 times 
 8–4 happend 3 times 
-1-10 happend 3 times 
+0–7 happend 3 times 
 6–5 happend 2 times 
-1-11 happend 2 times 
-8-1 happend 2 times 
-0–7 happend 2 times 
-8-2 happend 2 times 
-4-9 happend 1 times 
-2-11 happend 1 times 
+1–8 happend 2 times 
+1-10 happend 2 times 
+2–8 happend 2 times 
+9–4 happend 1 times 
+11–2 happend 1 times 
+1-11 happend 1 times 
 5–6 happend 1 times 
 1–9 happend 1 times 
 7–6 happend 1 times 
-4-10 happend 1 times 
+10–4 happend 1 times 
 4–7 happend 1 times 
 6–6 happend 1 times 
-11–0 happend 1 times 
-0-10 happend 1 times 
 9–3 happend 1 times 
-8-0 happend 1 times 
+0–8 happend 1 times 
+7–5 happend 1 times 
